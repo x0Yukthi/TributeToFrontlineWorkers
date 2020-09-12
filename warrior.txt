@@ -1,0 +1,185 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            Covid 19 warriors
+        </title>
+        <link rel="stylesheet" href="hsagd.css">
+    </head>
+    <body>
+        <div class="bgimage">
+            <nav class="nbar">
+                <img class="pic" src="https://site.surveysparrow.com/wp-content/uploads/2020/03/covid-19-symptoms-prevention.png">
+                <ul>
+                    <li><a class="active" href="#">Home</a></li>
+                    <li><a  href="#">About</a></li>
+                    <li><a  href="#">Contact</a></li>
+                    <li><a  href="#">Help</a></li>
+                </ul>
+            </nav>
+            <div class="centre">
+                <h1>warriors</h1>
+            </div>
+            <div class="slidershow middle">
+                <div class="slides">
+                    <input type="radio" class="radbtn" id="rb1" checked>
+                    <input type="radio" class="radbtn" id="rb2">
+                    <input type="radio" class="radbtn" id="rb3">
+                    <input type="radio" class="radbtn" id="rb4">
+                    <input type="radio" class="radbtn" id="rb5">
+                    <div class="slide s1">
+                        <img  src="https://static.vecteezy.com/system/resources/previews/001/234/186/non_2x/man-disinfecting-coronavirus-particles-vector.jpg" alt="covid">
+                    </div>
+                    <div class="slide">
+                        <img  src="https://www.aljazeera.com/mritems/Images/2020/3/26/180928a8e0cf47b7846ab85e367b5841_18.jpg" alt="covid">
+                    </div>
+                    <div class="slide">
+                        <img src="https://images.newindianexpress.com/uploads/user/ckeditor_images/article/2020/2/29/Coronavirus_infograph.jpg" alt="risk factor">
+                    </div>
+                    <div class="slide">
+                        <img src="https://www.visualcapitalist.com/wp-content/uploads/2020/05/where-covid-19-is-rising-and-falling-prev-1-1000x600.png" alt="covid rise">
+                    </div>
+                    <div class="slide">
+                        <img  src="https://img.freepik.com/free-vector/coronavirus-prevention-infographic-stay-safe_23-2148520807.jpg?size=626&ext=jpg" alt="prevention">
+                    </div>
+                </div>
+                <div class="navigation">
+                    <label for="rb1" class="bar"></label>
+                    <label for="rb2" class="bar"></label>
+                    <label for="rb3" class="bar"></label>
+                    <label for="rb4" class="bar"></label>
+                    <label for="rb5" class="bar"></label>
+                </div>
+            </div>
+            <h2>Covid 19 Essential workers</h2>
+            <div class="frontliner1">
+                <div class="imgbox1">
+                    <img src="https://www.cidrap.umn.edu/sites/default/files/public/styles/ss_media_popup/public/media/article/coronavirus_swabbing.jpg?itok=7_CRjLVQ" alt="Doctor">
+                </div>
+                <div class="content1">
+                    <h2>Health Workers</h2>
+                    <p><br> The role and importance of Doctors in our lives have never been valued more than during the current Pandemic. Though Doctors have always played a significant role in the lives of individuals and society as a whole the current scenario has bought the significance of their role to the forefront. 
+                            Like a soldier during wartime doctors have gone beyond the call of duty working non-stop to save lives risking their own, especially our government doctors. <br>
+                            The threat of them catching the disease and infecting their own families also looms large over them, due to which most of the doctors have given up going homes and have shifted to solitary accommodations, where they go to take rest after completing their duty hours, which could stretch to 15 or even 18 hours in a day.
+                    </p>
+                </div>
+            </div>
+            <div class="frontliner2">
+                <div class="imgbox2">
+                    <img src="https://timesofindia.indiatimes.com/thumb/msid-75489956,width-1200,height-900,resizemode-4/.jpg" alt="Police">
+                </div>
+                <div class="content2">
+                    <h2>Police/Armed Force</h2>
+                    <p><br>In most countries, national laws impose severe restrictions to armed forces intervention in internal affairs during peace time, more in the security realm than in that of safety. Armed forces are hindered to enforce domestic laws. 
+                        This situation might change during the state of emergency, but parliaments must authorise it. So far, police forces have been able to cope with the deterioration of the security situation, even in the most pressing situations like those that occurred in the north of Italy.
+                        So far, there is no information on soldiers’ engagement in the control of civil unrest and maintenance of public order. 
+                    </p>
+                </div>
+            </div>
+            <div class="frontliner3">
+                <div class="imgbox3">
+                    <img src="https://th.thgim.com/news/national/kerala/fi55vq/article31432605.ece/alternates/FREE_435/25TVMDELIVERY1" alt="Delivery">
+                </div>
+                <div class="content3">
+                    <h2>Delivery Personals</h2>
+                    <p><br>With home delivery being excluded from the lockdown, delivery personnel have been at the frontline to keep the city ticking. 
+                        Hotels, homechefs, retail and wholesale shops, fish and meat stores, medical shops, vegetables and fruits outlets… depend on the delivery staff to keep their businesses running and ensure that customers’ demands are met.
+                        Masks and sanitisers are mandatory while some wear gloves as well. Also, unlike volunteers who do delivery for free, those who work for app-based delivery services earn an income. 
+                        Those delivering essentials have their hands full with their timings from 7 am to 8 pm.
+                    </p>
+                </div>
+            </div>
+            <div class="frontliner4">
+                <div class="imgbox4">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLl9bPhZKqAW4DYjq0lAxhVUKPtoo-LSlolA&usqp=CAU" alt="Janitor">
+                </div>
+                <div class="content4">
+                    <h2>Cleaning Staffs</h2>
+                    <p><br>That’s one of the viral phrases going around to raise awareness about how some workers—like health care workers, first responders and cleaning staff—cannot work from home or self-quarantine during this coronavirus outbreak.<br>
+                        Cleaning staffs are on the front lines of fighting this global pandemic, as they are responsible for deep cleaning, disinfecting and scrubbing the surfaces and areas that are hosts of potentially dangerous germs and viruses. 
+                        Many of them work with elderly individuals as a part of their jobs, and many of them are also immigrants—which puts them at another, complicated risk of infection from the new coronavirus.
+                    </p>
+                </div>
+            </div>
+            <div class="frontliner5">
+                <div class="imgbox5">
+                    <img src="https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/Corona_rep_NewDelhi04_pti_0.jpg?itok=v_bomMrq" alt="Grocery shop">
+                </div>
+                <div class="content5">
+                    <h2>Grocery Store Workers</h2>
+                    <p><br>Grocery store workers have always worked under precarious economic and health conditions. Wages are low, health insurance is lacking, and scheduled work hours for part-time employees are inconsistent.
+                        Employees are working in the middle of crowded stores, and are working past store operation hours to disinfect surfaces and restock empty shelves. Some customers are even making employees’ jobs more difficult by performatively coughing on produce.
+                        Situations like these agitate and endanger employees and their families.<br>The lack of worker protections makes employees more susceptible to catching the virus. Especially now that panic buying is sweeping across grocery stores, employees are scrambling to meet the demands of customers.
+                        Grocery store workers across the country continue to work tirelessly to provide food for the public. They have become the unsung heroes of the pandemic.
+                    </p>
+                </div>
+            </div>
+            <div class="frontliner6">
+                <div class="imgbox6">
+                    <img src="https://images.financialexpress.com/2020/03/farmer1.jpg" alt="Farmer">
+                </div>
+                <div class="content6">
+                    <h2>Farmers</h2>
+                    <p><br>COVID-19 is disrupting some activities in agriculture and supply chains. Preliminary reports show that the non-availability of migrant labor is interrupting some harvesting activities, particularly in northwest India where wheat and pulses are being harvested.
+                        There are disruptions in supply chains because of transportation problems and other issues. Prices have declined for wheat, vegetables, and other crops, yet consumers are often paying more. Media reports show that the closure of hotels, restaurants, sweet shops, and tea shops during the lockdown is already depressing milk sales.
+                        Meanwhile, poultry farmers have been badly hit due to misinformation, particularly on social media, that chicken are the carriers of COVID-19.<br>Fortunately, despite the panic buying, shelves are kept reasonably well-stocked thanks to our farmers, supplying freshly-harvested fruits and vegetables every day. They are among the heroes of this pandemic.
+                    </p>
+                </div>
+            </div>
+            <div class="ending">
+                <h2>Thanking the Real Heroes</h2>
+                <img src="https://i0.wp.com/publichealthinsider.com/wp-content/uploads/2020/04/Essential-workers-blog-slider.png?fit=750%2C329&ssl=1" alt="thank you">
+                <p>Lets take a moment and thank all the frontline workers out there who have been  working round the clock to make sure we are save and health. These frontline workers are risking their lives while trying to saving the whole world.  Our expectation is that most support staff in these essential industries will continue to work during the COVID-19 pandemic, but it’s hard to gauge exactly how many workers fall into this category.
+                    Many essential workers are more likely to get sick or die due to their service, so there is a need to protect their family’s financial future. We can reduce the work pressure on them by simply STAYING IN HOME. 
+                </p>
+            </div>
+            <div class="contents1">
+                <h2>Stories</h2>
+                <div class="contentslider">
+                    <ul>
+                        <li>
+                            <div class="slidecontent">
+                                <h3>Forces express gratitude to India’s Covid warriors</h3>
+                                <p>From fighter jets performing fly-pasts over Delhi’s Rajpath and Mumbai’s Marine Drive to helicopters showering petals over hospitals dedicated to treating Covid-19 patients and transport aircraft flying in formation over multiple cities; the armed forces on 3rd of May carried out exercises across the country in a concerted gesture of gratitude to people at the frontline of the battle against the virus.</p>
+                                 <p>Army bands performed outside Covid-19 hospitals and sailors on-board India’s largest warship, INS Vikramaditya, formed a human chain on the aircraft carrier’s flight deck to pay tribute to the corona warriors. 
+                                     Several warships were also illuminated at anchorage at Mumbai, Porbandar, Karwar, Vizag, Chennai, Kochi and Port Blair.
+                                     <br><a href="https://www.hindustantimes.com/india-news/forces-express-gratitude-to-india-s-covid-warriors/story-YxE211Mn0ySBzyqMKaPYAM.html">Click to read complete story</a></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="slidecontent">
+                                <h3>Bengaluru residents applaud doctor who returned home after Covid-19 duty</h3>
+                                 <p>A video of residents welcoming a doctor in Bengaluru with loud cheer and applause after she returned from treating Covid-19 patients has gone viral on social media for all the right reasons.</p>
+                                 <p>The video shows Dr Vijayashree being welcomed with a loud round of applause by the residents of an apartment building in Bengaluru. Moved by the gesture, the doctor, who works at MS Ramaiah Memorial Hospital in the city, broke down in tears.
+                                     <br><a href="https://indianexpress.com/article/trending/trending-in-india/doctor-bangalore-coronavirus-covid-19-6391953/">Click to read complete story</a></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="slidecontent">
+                                <h3>Covid-19 Vaccine update</h3>
+                                <p>China has approved for trials its first nasal spray vaccine to combat the novel coronavirus that has claimed over 904,000 lives and infected more than 27 million people globally, official media reported.</p>
+                                 <p>China's only nasal spray vaccine against the coronavirus is expected to start phase I clinical trials in November, and it is recruiting 100 volunteers.   It is the only vaccine of its type approved by China's National Medical Products Administration, the state-run Global Times reported.
+<br><a href="https://www.ndtv.com/world-news/china-approves-trials-for-first-nasal-spray-covid-19-vaccine-report- 2293543">Click to read complete story</a></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="slidecontent">
+                                <h3>India's frontline heroes decry harassment</h3>
+                                <p>Videos of health care workers being pelted with stones as they are chased away from a locality in India went viral on Thursday, taking the country by storm and garnering global attention. The incident occurred in Indore, a city in India’s central Madhya Pradesh state, and the area was Tatpatti Bakhal, a hotspot of coronavirus cases in the city. Of the five health workers, who were in the area to screen suspected COVID-19 patients, two women doctors suffered injuries. While this particular attack drew attention, criticism, and action -- seven people arrested in a matter of hours</p>
+                                 <p>With several such violent attacks witnessed in India over the past months, multiple organizations representing health professionals have asked the Home Ministry to protect workers leading the country’s battle against the coronavirus.
+                                     <br><a href="https://www.aa.com.tr/en/asia-pacific/covid-19-indias-frontline-heroes-decry-harassment/1791396">Click to read complete story</a></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="slidecontent">
+                                <h3>The five truths about the migrant workers’ crisis</h3>
+                                <p>If anything positive has come out of the Covid-19 crisis, it is that the world’s most stringent lockdown revealed the plight of the vulnerable Indian migrant labour force. 
+                                    With no work and no way to feed themselves, removed from family support, millions had no choice but to defy the lockdown and return to their villages. One after another, they marched, carrying their belongings and children, walking thousands of kilometres, determined to find a way home, capturing the imagination of the world</p> 
+                                    <br><a href="https://www.hindustantimes.com/analysis/the-five-truths-about-the-migrant-workers-crisis-opinion/story-awTQUm2gnJx72UWbdPa5OM.html">Click to read complete story</a></p>      
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
